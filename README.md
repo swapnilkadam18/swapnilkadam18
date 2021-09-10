@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @swapnilkadam18
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Flutter and Kotlin
+- 👋 Hi, I’m Swapnil Kadam
+- Android apps developer by profession
+- 🌱 I’m currently working on Flutter and Kotlin
 - 📫 How to reach me https://www.linkedin.com/in/swapnil-kadam-77166b45/
 
 <!---
